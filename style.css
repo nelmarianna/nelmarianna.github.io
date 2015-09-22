@@ -82,9 +82,7 @@ a{
    
 }
 
-.info p{
-    font-family:Verdana, Arial;
-}
+
 
 #about img{
     height:300px;
@@ -123,15 +121,11 @@ span{
     
     margin:0px;
     padding:18px 0px 0px 20px;
-
-
 }
 #contact .links{
     width:40%;
 margin:auto;
   
-   
-    
 }
 #contact img{
    height:100px;
@@ -148,10 +142,10 @@ table{
     font-size:25px;
      text-align:center;
 }
-
-
 .org{
     height:130px;
 }
-
+.info p{
+    font-family:Verdana, Arial;
+}
 
