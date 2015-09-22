@@ -80,10 +80,11 @@ a{
     margin:auto;
     font-size:30px;
    
-
-    
 }
 
+.info{
+    font-family:Verdana, Arial;
+}
 
 #about img{
     height:300px;
